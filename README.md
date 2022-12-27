@@ -16,7 +16,14 @@ Keep in mind that it is always a good idea to make backups before renaming files
 
 To run the script, navigate to the directory where the script is located in the terminal, and then type:
 
-python3 rename_files.py
-
+### On Windows:
+ ```python
+ python bulk-rename-files.py.py
+ ```
+ 
+ ### On MacOs & Linux:
+ ```python
+ python3 bulk-rename-files.py.py
+ ```
 
 This will execute the script and prompt you to enter the substring and replacement string.
