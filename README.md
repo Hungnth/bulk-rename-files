@@ -18,12 +18,12 @@ To run the script, navigate to the directory where the script is located in the 
 
 ### On Windows:
  ```python
- python bulk-rename-files.py.py
+ python bulk-rename-files.py
  ```
  
  ### On MacOs & Linux:
  ```python
- python3 bulk-rename-files.py.py
+ python3 bulk-rename-files.py
  ```
 
 This will execute the script and prompt you to enter the substring and replacement string.
